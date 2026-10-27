@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# ArcGIS
+*.lock
+*.aux.xml
+*.ovr
+*.atx
+*.gdb/
+
+# Resultados de la herramienta
+*.tif
+*.tiff
+*.png
+*.zip
+Sentinel2_*/
+Landsat*_*/
+resumen_escenas.csv
+visor_*.html
+
+# Sistema
+Thumbs.db
+desktop.ini
